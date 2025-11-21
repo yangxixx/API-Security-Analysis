@@ -1,5 +1,5 @@
 # API-Security-Analysis
-burp插件：ai漏洞寻找工具
+burp插件：被动ai漏洞寻找工具
 设置deepseek的api key，需要分析的域名和ip
 <img width="756" height="717" alt="image" src="https://github.com/user-attachments/assets/cf49351a-66ff-4d60-b9a2-df720eacdc85" />
 开始分析，分析结果
